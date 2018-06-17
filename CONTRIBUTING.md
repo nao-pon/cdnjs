@@ -43,9 +43,9 @@
 
 ### b. request a new library
 
-* For the new library request issue, please make sure it's not a *personal* project, we have a basic requirement for the popularity, like **100** stars on GitHub or **500** downloads/month on npm registry.
+* For the new library request issue, please make sure it's not a *personal* project, we have a basic requirement for the popularity, like **200** stars on GitHub or **800** downloads/month on npm registry.
 
-* The new library must have at least one officially public accessable repository and open source license.
+* The new library must have at least one officially public accessible repository and open source license.
 
 ## B. pull request
 

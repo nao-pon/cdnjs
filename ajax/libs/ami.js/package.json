@@ -5,12 +5,12 @@
     {
       "basePath": "build",
       "files": [
-        "**/*"
+        "**/!(*.gz)"
       ]
     }
   ],
   "filename": "ami.min.js",
-  "version": "0.0.16",
+  "version": "0.0.22",
   "description": "AMI Medical Imaging (AMI) JS ToolKit for THREEJS",
   "keywords": [
     "ami",

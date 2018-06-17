@@ -13,7 +13,7 @@
     "form",
     "jquery-form"
   ],
-  "version": "4.2.1",
+  "version": "4.2.2",
   "homepage": "https://jquery-form.github.io/form/",
   "repository": {
     "type": "git",
@@ -22,7 +22,7 @@
   "author": "Kevin Morris",
   "licenses": [
     "MIT",
-    "LGPL-3.0"
+    "LGPL-2.1"
   ],
   "autoupdate": {
     "source": "git",
